@@ -1,3 +1,7 @@
 Hello,
 how,
-hola
+hola,
+
+gracious,
+bye,
+alvida
