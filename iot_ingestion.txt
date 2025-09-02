@@ -2,3 +2,6 @@ ingesting real time data from Azure event hub and kafka.
 
 day1:
 added data
+
+day2:
+added kafka data
