@@ -7,3 +7,4 @@ Day2:
 Continuing my work.
 
 I am ingesting batch data.
+I will also add stream data.
