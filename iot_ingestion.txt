@@ -1,4 +1,4 @@
-ingesting real time data from Azure event hub
+ingesting real time data from Azure event hub and kafka.
 
 day1:
 added data
